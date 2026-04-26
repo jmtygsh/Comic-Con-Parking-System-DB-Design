@@ -1,5 +1,6 @@
 ## Comic-Con Parking System
 
+![ERD](./diagram.png)
 
 # Mental Map
 
@@ -85,3 +86,6 @@
    status = completed
 
 8. parking_spot becomes free again.
+
+
+
